@@ -1,5 +1,3 @@
-# Read the workspace and give ne an appropriate README.md file for GitHub. Name of the app: PenPal
-
 # PenPal
 
 PenPal is an AI powered automated journaling application that uses numerous data points from your phone to automatically journal.
